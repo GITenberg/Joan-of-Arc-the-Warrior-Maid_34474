@@ -20,6 +20,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/33094
     wikipedia: http://en.wikipedia.org/wiki/Lucy_Foster_Madison
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/34474#Joan-of-Arc-the-Warrior-Maid
 gutenberg_issued: '2010-11-29'
 gutenberg_type: Text
 identifiers:
